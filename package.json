@@ -1,0 +1,17 @@
+{
+  "name": "desafio-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kristiantenfen/bootcamp-gostack_desafio-01.git",
+  "author": "Kristian <kristian.tenfen@gmai.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "scripts": {
+    "dev": "yarn nodemon"
+  }
+}
